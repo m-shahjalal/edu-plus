@@ -1,0 +1,19 @@
+NOTE: Mandatory:
+1. use a css framework 
+2. have to crate at least four routes 
+3. have to create a header and a footer component
+4. have to create a 404 page
+5. create at least 4 service sections in home page
+6. have to give header list named home, about us, service, contact, consulting
+7. in service component, have to create 6-9 cards like home page card
+
+NOTE: Bonus:
+1. edit readme.md file
+2. organize the code and write comments
+3. dynamic route
+4. create extra components
+5. use context api
+
+NOTE: Optional:
+1. use local storage
+2. responsive site
