@@ -1,0 +1,119 @@
+[
+	{
+		"name": "ILTS",
+		"price": "$75",
+		"privilege": [
+			"45+ classes; 20 Practice Tests",
+			"3 Pre Mock Test; 10 Full-length Model Tests",
+			"Lifetime Studentship Validity(online)",
+			"Free Course Books (soft copies)",
+			"Free 1 to 1 Care if needed",
+			"mock viva"
+		],
+		"teacher": "_THUISs23CI"
+	},
+	{
+		"name": "GMAT MATH",
+		"price": "$75",
+		"privilege": [
+			"45+ classes; 20 Practice Tests",
+			"3 Pre Mock Test; 10 Full-length Model Tests",
+			"Lifetime Studentship Validity(online)",
+			"Free Course Books (soft copies)",
+			"Free 1 to 1 Care if needed",
+			"mock viva"
+		],
+		"teacher": "c-mgSuxqpzA"
+	},
+	{
+		"name": "GRE",
+		"price": "$80",
+		"privilege": [
+			"45+ classes; 20 Practice Tests",
+			"3 Pre Mock Test; 10 Full-length Model Tests",
+			"Lifetime Studentship Validity(online)",
+			"Free Course Books (soft copies)",
+			"Free 1 to 1 Care if needed",
+			"mock viva"
+		],
+		"teacher": "rReG42Hkqo4"
+	},
+	{
+		"name": "SPOKEN ENGLISH",
+		"price": "$55",
+		"privilege": [
+			"45+ classes; 20 Practice Tests",
+			"3 Pre Mock Test; 10 Full-length Model Tests",
+			"Lifetime Studentship Validity(online)",
+			"Free Course Books (soft copies)",
+			"Free 1 to 1 Care if needed",
+			"mock viva"
+		],
+		"teacher": "Io0eEAfSMjY"
+	},
+	{
+		"name": "ADVANCED ENGLISH",
+		"price": "$99",
+		"privilege": [
+			"45+ classes; 20 Practice Tests",
+			"3 Pre Mock Test; 10 Full-length Model Tests",
+			"Lifetime Studentship Validity(online)",
+			"Free Course Books (soft copies)",
+			"Free 1 to 1 Care if needed",
+			"mock viva"
+		],
+		"teacher": "NpyF7rjqmq4"
+	},
+	{
+		"name": "MATH",
+		"price": "$75",
+		"privilege": [
+			"45+ classes; 20 Practice Tests",
+			"3 Pre Mock Test; 10 Full-length Model Tests",
+			"Lifetime Studentship Validity(online)",
+			"Free Course Books (soft copies)",
+			"Free 1 to 1 Care if needed",
+			"mock viva"
+		],
+		"teacher": "sgZX15Da8YE"
+	},
+	{
+		"name": "ADVANCED MATH",
+		"price": "$99",
+		"privilege": [
+			"45+ classes; 20 Practice Tests",
+			"3 Pre Mock Test; 10 Full-length Model Tests",
+			"Lifetime Studentship Validity(online)",
+			"Free Course Books (soft copies)",
+			"Free 1 to 1 Care if needed",
+			"mock viva"
+		],
+		"teacher": "IrQZkyhdOow"
+	},
+	{
+		"name": "MBA",
+		"price": "$75",
+		"privilege": [
+			"45+ classes; 20 Practice Tests",
+			"3 Pre Mock Test; 10 Full-length Model Tests",
+			"Lifetime Studentship Validity(online)",
+			"Free Course Books (soft copies)",
+			"Free 1 to 1 Care if needed",
+			"mock viva"
+		],
+		"teacher": "vFJNeWJAA2g"
+	},
+	{
+		"name": "MATH CRUSH",
+		"price": "$35",
+		"privilege": [
+			"45+ classes; 20 Practice Tests",
+			"3 Pre Mock Test; 10 Full-length Model Tests",
+			"Lifetime Studentship Validity(online)",
+			"Free Course Books (soft copies)",
+			"Free 1 to 1 Care if needed",
+			"mock viva"
+		],
+		"teacher": "7JGjoSVfIDM"
+	}
+]

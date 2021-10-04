@@ -1,0 +1,15 @@
+.header {
+	@apply text-gray-600 fixed right-0 left-0 top-0 border-b bg-indigo-100 z-20;
+}
+.brand {
+	@apply container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center;
+}
+.logo {
+	@apply flex font-medium items-center text-gray-900 mb-4 md:mb-0;
+}
+.nav {
+	@apply md:ml-auto flex flex-wrap items-center text-base justify-center;
+}
+.link {
+	@apply mr-5 hover:text-gray-900;
+}

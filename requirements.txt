@@ -12,8 +12,8 @@ NOTE: Bonus:
 2. organize the code and write comments
 3. dynamic route
 4. create extra components
-5. use context api
 
 NOTE: Optional:
 1. use local storage
 2. responsive site
+3. use context api

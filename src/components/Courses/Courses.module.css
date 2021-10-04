@@ -1,0 +1,24 @@
+.courses {
+	@apply text-gray-600 bg-indigo-100 m-auto;
+}
+.coursesInner {
+	@apply container px-5 py-24 mx-auto;
+}
+.header {
+	@apply flex flex-wrap w-full mb-20;
+}
+.col1 {
+	@apply lg:w-1/2 w-full mb-6 lg:mb-0;
+}
+.lead {
+	@apply sm:text-3xl text-2xl font-medium  mb-2 text-gray-900;
+}
+.bottom {
+	@apply h-1 w-20 bg-indigo-500 rounded;
+}
+.tagline {
+	@apply lg:w-1/2 w-full leading-relaxed text-gray-600;
+}
+.cards {
+	@apply grid grid-cols-3 gap-10 -m-4;
+}

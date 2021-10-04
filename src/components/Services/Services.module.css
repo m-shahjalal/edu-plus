@@ -1,0 +1,37 @@
+.services {
+	@apply text-gray-600;
+}
+.servicesInner {
+	@apply container px-5 py-24 mx-auto;
+}
+.header {
+	@apply text-center mb-20;
+}
+.lead {
+	@apply sm:text-3xl text-2xl font-medium text-gray-900 mb-4;
+}
+.subtitle {
+	@apply text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-500;
+}
+.bottom {
+	@apply flex mt-6 justify-center;
+}
+.bottomInner {
+	@apply w-16 h-1 rounded-full bg-indigo-500 inline-flex;
+}
+
+.listContainer {
+	@apply flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4 md:space-y-0 space-y-6;
+}
+.list {
+	@apply p-4 md:w-1/3 flex flex-col text-center items-center;
+}
+.homeInner {
+	@apply w-20 h-20 inline-flex items-center justify-center rounded-full bg-red-200 text-indigo-500 mb-5 flex-shrink-0;
+}
+.consultInner {
+	@apply w-20 h-20 inline-flex items-center justify-center rounded-full bg-blue-200 text-indigo-500 mb-5 flex-shrink-0;
+}
+.studyInner {
+	@apply w-20 h-20 inline-flex items-center justify-center rounded-full bg-blue-100 text-indigo-500 mb-5 flex-shrink-0;
+}
